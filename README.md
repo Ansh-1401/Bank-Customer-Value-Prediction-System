@@ -43,4 +43,4 @@ bank-customer-project/
 - Improve accuracy with hyperparameter tuning
 
 👩‍💻 Author
-Anushka Singh
+Ansh Srivastava
